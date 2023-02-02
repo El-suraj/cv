@@ -1,0 +1,41 @@
+body {
+  background-color: lavender;
+}
+/*********TAG SELECTORS**********/
+h1 {
+  color: purple;
+  font-style: bold;
+}
+H2 {
+  color: limegreen;
+  font-style: inherit;
+}
+H3 {
+  color: lightsalmon;
+}
+
+hr {
+  background-color: none;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 10px;
+  width: 11%;
+}
+
+img {
+  background-color: black;
+  border-radius: 50%;
+}
+
+#HEADING {
+  color: RED;
+}
+table {
+  border-spacing: 20px;
+}
+/*************ID SELECTORS************/
+#two {
+  border-spacing: 0px;
+}
+/************ID SELECTORS************/
